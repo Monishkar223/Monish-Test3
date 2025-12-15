@@ -1,1 +1,1 @@
-print("hi")
+print("Git practice - step 1")
